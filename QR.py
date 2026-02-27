@@ -133,3 +133,5 @@ def main():
 # Solo ejecuta main() si el archivo se ejecuta directamente
 if __name__ == "__main__":
     main()
+    "link repositorio : https://github.com/juanvidal0409/Estadistica"
+
